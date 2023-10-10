@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Csharp-Projects\SimpleProjects\Average-Calculation\bin\Debug\net7.0\Average-Calculation.exe
+C:\Users\USER\Desktop\Csharp-Projects\SimpleProjects\Average-Calculation\bin\Debug\net7.0\Average-Calculation.deps.json
+C:\Users\USER\Desktop\Csharp-Projects\SimpleProjects\Average-Calculation\bin\Debug\net7.0\Average-Calculation.runtimeconfig.json
+C:\Users\USER\Desktop\Csharp-Projects\SimpleProjects\Average-Calculation\bin\Debug\net7.0\Average-Calculation.dll
+C:\Users\USER\Desktop\Csharp-Projects\SimpleProjects\Average-Calculation\bin\Debug\net7.0\Average-Calculation.pdb
+C:\Users\USER\Desktop\Csharp-Projects\SimpleProjects\Average-Calculation\obj\Debug\net7.0\Average-Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Csharp-Projects\SimpleProjects\Average-Calculation\obj\Debug\net7.0\Average-Calculation.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Csharp-Projects\SimpleProjects\Average-Calculation\obj\Debug\net7.0\Average-Calculation.AssemblyInfo.cs
+C:\Users\USER\Desktop\Csharp-Projects\SimpleProjects\Average-Calculation\obj\Debug\net7.0\Average-Calculation.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Csharp-Projects\SimpleProjects\Average-Calculation\obj\Debug\net7.0\Average-Calculation.dll
+C:\Users\USER\Desktop\Csharp-Projects\SimpleProjects\Average-Calculation\obj\Debug\net7.0\refint\Average-Calculation.dll
+C:\Users\USER\Desktop\Csharp-Projects\SimpleProjects\Average-Calculation\obj\Debug\net7.0\Average-Calculation.pdb
+C:\Users\USER\Desktop\Csharp-Projects\SimpleProjects\Average-Calculation\obj\Debug\net7.0\Average-Calculation.genruntimeconfig.cache
+C:\Users\USER\Desktop\Csharp-Projects\SimpleProjects\Average-Calculation\obj\Debug\net7.0\ref\Average-Calculation.dll
