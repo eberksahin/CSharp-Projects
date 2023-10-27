@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Csharp-Projects\SimpleProjects\Avarage-calculationV2\obj\Debug\net7.0\Avarage-calculationV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Csharp-Projects\SimpleProjects\Avarage-calculationV2\obj\Debug\net7.0\Avarage-calculationV2.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Csharp-Projects\SimpleProjects\Avarage-calculationV2\obj\Debug\net7.0\Avarage-calculationV2.AssemblyInfo.cs
+C:\Users\USER\Desktop\Csharp-Projects\SimpleProjects\Avarage-calculationV2\obj\Debug\net7.0\Avarage-calculationV2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Csharp-Projects\SimpleProjects\Avarage-calculationV2\bin\Debug\net7.0\Avarage-calculationV2.exe
+C:\Users\USER\Desktop\Csharp-Projects\SimpleProjects\Avarage-calculationV2\bin\Debug\net7.0\Avarage-calculationV2.deps.json
+C:\Users\USER\Desktop\Csharp-Projects\SimpleProjects\Avarage-calculationV2\bin\Debug\net7.0\Avarage-calculationV2.runtimeconfig.json
+C:\Users\USER\Desktop\Csharp-Projects\SimpleProjects\Avarage-calculationV2\bin\Debug\net7.0\Avarage-calculationV2.dll
+C:\Users\USER\Desktop\Csharp-Projects\SimpleProjects\Avarage-calculationV2\bin\Debug\net7.0\Avarage-calculationV2.pdb
+C:\Users\USER\Desktop\Csharp-Projects\SimpleProjects\Avarage-calculationV2\obj\Debug\net7.0\Avarage-calculationV2.dll
+C:\Users\USER\Desktop\Csharp-Projects\SimpleProjects\Avarage-calculationV2\obj\Debug\net7.0\refint\Avarage-calculationV2.dll
+C:\Users\USER\Desktop\Csharp-Projects\SimpleProjects\Avarage-calculationV2\obj\Debug\net7.0\Avarage-calculationV2.pdb
+C:\Users\USER\Desktop\Csharp-Projects\SimpleProjects\Avarage-calculationV2\obj\Debug\net7.0\Avarage-calculationV2.genruntimeconfig.cache
+C:\Users\USER\Desktop\Csharp-Projects\SimpleProjects\Avarage-calculationV2\obj\Debug\net7.0\ref\Avarage-calculationV2.dll
